@@ -1883,7 +1883,7 @@ label dw_slasher_fr_fin:
    $ quick_menu = False
    scene dw_credits:
        ycenter 2.0 xcenter 0.5
-       linear 20.0 ycenter 0.0
+       linear 20.0 ycenter -1.0
    with Fade(1.0,1.0,1.0)   
    
    pause 20.0
