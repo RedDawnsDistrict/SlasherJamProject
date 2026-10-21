@@ -1632,7 +1632,7 @@ label dw_slasher_fr_fin:
    
    pause 2.0
    
-   play music DW + "audio/sfx/clock_tower.ogg" fadein 1.0
+   play music DW + "audio/music/clock_tower.ogg" fadein 1.0
    
    show killer dw weapon:
        easein 2.0 rotate 0 ycenter 0.75
