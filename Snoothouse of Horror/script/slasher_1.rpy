@@ -68,7 +68,7 @@ label shh_slasher_1:
             repeat
 
     show fang neutral at walking_cycle_aligned:
-        xcenter -.5 ycenter 0.655
+        xcenter -.5
         parallel:
             linear 3.0 xcenter 0.5
 
