@@ -1,7 +1,8 @@
 {
     "ID": "a050625ffd9437353772890f34c8ae58",
 	"Name": "Snoothouse of Horror",
-	"Version": "1.0",
+	"Version": "1.1",
+	"Authors": "Team Warehouse",
 	"Description": "A collection of spooky tales featuring everyone's favorite cast of Dinos.",
 	"Label": "shh_main_1"
 }
